@@ -24,3 +24,7 @@ Future<bool> isZoomed() {
 ### Developer
 
 - [Abdelrahman Saed](https://github.com/binSaed)
+
+---
+
+Maintained by [Abdelrahman Saed](https://bnsaed.com/) — [more Flutter packages & case studies](https://bnsaed.com/projects/).
